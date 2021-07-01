@@ -1,0 +1,5 @@
+cd /home/wuhan2020/yqc/catkin_ws/src/VINS-Mono
+source ../../devel/setup.bash
+conda activate yxsnb
+python testVinsmonoEuroc.py
+
